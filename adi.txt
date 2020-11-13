@@ -1,0 +1,2 @@
+# WARNING
+Learn w to use GIT
